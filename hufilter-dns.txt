@@ -23,58 +23,58 @@
 ! GitHub issues: https://github.com/hufilter/hufilter/issues
 ! GitHub pull requests: https://github.com/hufilter/hufilter/pulls
 !
-a.adnium.com
-ad.depo.hu
-ad*.gyaloglo.hu
-ad.gyermekevek.hu
-ad.hirekmedia.hu
-adk2x.com
-ad.love.hu
-ad*.mellesleg.hu
-ad.netmedia.hu
-ad.onadozo.hu
-ad.parom.hu
-ads.geeks.hu
-ads.nepszava.com
-ad.supportal.hu
-ad.szexneked.hu
-adverbs.napilapcsoport.hu
-adversalservers.com
-advertiserurl.com
-adv.forpsi.hu
-adv.hu
-as*.prog.hu
-audit.median.hu
-avatraffic.com
-banner.terminal.hu
-boxzsak.kirowski.com
-brostraffic.com
-choice.microsoft.com
-ctnsnet.com
-et.twyn.com
-fourtwentytradingcompany.net
-*.hit.gemius.pl
-iofferphoto.com
-loading-delivery2.com
-netadclick.com
-netexs.com
-new-bigpenn.com
-pixel.blog.hu
-pixel.sojern.com
-predictivadnetwork.com
-rc.rc.hu
-rc.rootclick.com
-redwolfmoon.com
-rehs.*.hu
-sher.*.hu
-smartcj.com
-srv1.srv-stat.com
-stat.adultium.com
-stats.badoostats.com
-syndication.globaltraffico.com
-syndication.trafficreps.com
-szemezgeto*.ingatlan.com
-trafficshop.com
-up-banner.wavecdn.de
-vid4u.org
-wstat.ozon.ru
+127.0.0.1 a.adnium.com
+127.0.0.1 ad.depo.hu
+127.0.0.1 ad*.gyaloglo.hu
+127.0.0.1 ad.gyermekevek.hu
+127.0.0.1 ad.hirekmedia.hu
+127.0.0.1 adk2x.com
+127.0.0.1 ad.love.hu
+127.0.0.1 ad*.mellesleg.hu
+127.0.0.1 ad.netmedia.hu
+127.0.0.1 ad.onadozo.hu
+127.0.0.1 ad.parom.hu
+127.0.0.1 ads.geeks.hu
+127.0.0.1 ads.nepszava.com
+127.0.0.1 ad.supportal.hu
+127.0.0.1 ad.szexneked.hu
+127.0.0.1 adverbs.napilapcsoport.hu
+127.0.0.1 adversalservers.com
+127.0.0.1 advertiserurl.com
+127.0.0.1 adv.forpsi.hu
+127.0.0.1 adv.hu
+127.0.0.1 as*.prog.hu
+127.0.0.1 audit.median.hu
+127.0.0.1 avatraffic.com
+127.0.0.1 banner.terminal.hu
+127.0.0.1 boxzsak.kirowski.com
+127.0.0.1 brostraffic.com
+127.0.0.1 choice.microsoft.com
+127.0.0.1 ctnsnet.com
+127.0.0.1 et.twyn.com
+127.0.0.1 fourtwentytradingcompany.net
+127.0.0.1 *.hit.gemius.pl
+127.0.0.1 iofferphoto.com
+127.0.0.1 loading-delivery2.com
+127.0.0.1 netadclick.com
+127.0.0.1 netexs.com
+127.0.0.1 new-bigpenn.com
+127.0.0.1 pixel.blog.hu
+127.0.0.1 pixel.sojern.com
+127.0.0.1 predictivadnetwork.com
+127.0.0.1 rc.rc.hu
+127.0.0.1 rc.rootclick.com
+127.0.0.1 redwolfmoon.com
+127.0.0.1 rehs.*.hu
+127.0.0.1 sher.*.hu
+127.0.0.1 smartcj.com
+127.0.0.1 srv1.srv-stat.com
+127.0.0.1 stat.adultium.com
+127.0.0.1 stats.badoostats.com
+127.0.0.1 syndication.globaltraffico.com
+127.0.0.1 syndication.trafficreps.com
+127.0.0.1 szemezgeto*.ingatlan.com
+127.0.0.1 trafficshop.com
+127.0.0.1 up-banner.wavecdn.de
+127.0.0.1 vid4u.org
+127.0.0.1 wstat.ozon.ru
